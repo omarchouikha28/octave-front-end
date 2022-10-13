@@ -1,6 +1,7 @@
 # Usermanager
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.3.
+This is basically a responsive Login form that interacts with a Spring Boot Backend
 
 ## Development server
 
